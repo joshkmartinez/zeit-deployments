@@ -1,0 +1,34 @@
+{
+  "name": "Zeit Deployment List",
+  "alias": [
+    "zeit",
+    "zdl",
+    "zda",
+    "nda",
+    "zal",
+    "nal",
+    "ndl",
+    "aliases",
+    "myAliases",
+    "myAlias",
+    "myDeployments",
+    "zeitDeployments",
+    "zeitDeployment",
+    "ZeitDeploymentList",
+    "deployment",
+    "deployments",
+    "lists",
+    "zeitList",
+    "zeitLists",
+    "nowDeployments",
+    "nowLists",
+    "nowAliases",
+    "nowAliasList",
+    "nowDeployment"
+  ],
+  "version": 2,
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+  "github": {
+    "silent": true
+  }
+}

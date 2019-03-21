@@ -1,0 +1,32 @@
+{
+  "name": "zeit-deployment-list",
+  "version": "1.0.0",
+  "description": "View deployments and aliases on Zeit and now.sh",
+  "main": "",
+  "author": "Joshua K. Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.13.5",
+    "carbon-icons": "^7.0.7",
+    "es6-promise": "^4.0.5",
+    "hoist-non-react-statics": "^3.3.0",
+    "isomorphic-fetch": "^2.2.1",
+    "moment": "^2.17.1",
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-jss": "^8.6.1",
+    "rebass": "^3.0.1",
+    "styled-components": "^4.1.3",
+    "styled-system": "^4.0.0",
+    "universal-cookie": "^3.0.7",
+    "webpack": "^4.29.5"
+  },
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next"
+  },
+  "snyk": true
+}
