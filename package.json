@@ -1,5 +1,5 @@
 {
-  "name": "zeit-deployment-list",
+  "name": "zeit-deployments",
   "version": "1.0.0",
   "description": "View deployments and aliases on Zeit and now.sh",
   "main": "",
