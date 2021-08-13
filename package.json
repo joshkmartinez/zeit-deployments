@@ -13,7 +13,7 @@
     "hoist-non-react-statics": "^3.3.0",
     "isomorphic-fetch": "^2.2.1",
     "moment": "^2.17.1",
-    "next": "^8.0.3",
+    "next": "^11.1.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-jss": "^8.6.1",
